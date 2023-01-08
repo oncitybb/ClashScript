@@ -1,4 +1,5 @@
 payload:
+  # Steam
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamserver.net
