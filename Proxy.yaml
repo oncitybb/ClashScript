@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   # PS5
   - DOMAIN,np.playstation.com
+  - DOMAIN,np.playstation.net
