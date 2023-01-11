@@ -6,3 +6,5 @@ payload:
   - SRC-IP-CIDR,192.168.3.52/32
   # Nvidia
   - DOMAIN-SUFFIX,nvidia.com
+  # SONY
+  - DOMAIN,ps5.update.sonygst.loris-e.llnwd.net
