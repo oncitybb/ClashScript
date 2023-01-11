@@ -7,4 +7,5 @@ payload:
   # Nvidia
   - DOMAIN-SUFFIX,nvidia.com
   # SONY
-  - DOMAIN,ps5.update.sonygst.loris-e.llnwd.net
+  - DOMAIN,update.sonygst.loris-e.llnwd.net
+  - DOMAIN,np.playstation.com
