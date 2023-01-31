@@ -11,3 +11,4 @@ payload:
   - DOMAIN,np.playstation.net
   # home monitor
   - DOMAIN-SUFFIX,lorexservices.com
+  - DOMAIN,p2p.lorexservices.com
