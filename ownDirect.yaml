@@ -12,4 +12,6 @@ payload:
   - DOMAIN,update.sonygst.loris-e.llnwd.net
   # Nexon
   - DOMAIN,kartdrift.arenadownload.nexon.com
-  
+    # home monitor
+  - DOMAIN-SUFFIX,lorexservices.com
+  - DOMAIN,p2p.lorexservices.com
