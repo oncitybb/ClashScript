@@ -9,6 +9,3 @@ payload:
   # PS5
   - DOMAIN,np.playstation.com
   - DOMAIN,np.playstation.net
-  # home monitor
-  - DOMAIN-SUFFIX,lorexservices.com
-  - DOMAIN,p2p.lorexservices.com
