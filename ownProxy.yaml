@@ -9,3 +9,5 @@ payload:
   # PS5
   - DOMAIN,np.playstation.com
   - DOMAIN,np.playstation.net
+  #wpk
+  - DOMAIN,game.teny-tech.com
