@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com
   # SONY
   - DOMAIN,update.sonygst.loris-e.llnwd.net
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,wwsga.me
   # Nexon
   - DOMAIN,kartdrift.arenadownload.nexon.com
     # home monitor
