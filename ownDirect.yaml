@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,granturismo-online.net
   - DOMAIN-SUFFIX,wwsga.me
   - DOMAIN-SUFFIX,gran-turismo.com
+  - DOMAIN,api.develop-stable.vegas.granturismo-online.net
   # Nexon
   - DOMAIN,kartdrift.arenadownload.nexon.com
     # home monitor
