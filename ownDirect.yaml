@@ -10,8 +10,9 @@ payload:
   - DOMAIN-SUFFIX,nvidia.com
   # SONY
   - DOMAIN,update.sonygst.loris-e.llnwd.net
-  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,granturismo-online.net
   - DOMAIN-SUFFIX,wwsga.me
+  - DOMAIN-SUFFIX,gran-turismo.com
   # Nexon
   - DOMAIN,kartdrift.arenadownload.nexon.com
     # home monitor
