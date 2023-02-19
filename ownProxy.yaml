@@ -11,3 +11,4 @@ payload:
   - DOMAIN,np.playstation.net
   #wpk
   - DOMAIN,game.teny-tech.com
+  - DOMAIN-SUFFIX,torrentgalaxy.to
