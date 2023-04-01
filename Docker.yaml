@@ -1,1 +1,3 @@
-
+payload:
+  - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,docker.io
