@@ -13,3 +13,5 @@ payload:
   - DOMAIN-SUFFIX,game.teny-tech.com
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,torrentgalaxy.org
+  #github
+  - DOMAIN-SUFFIX,githubusercontent.com
