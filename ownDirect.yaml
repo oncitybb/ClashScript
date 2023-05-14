@@ -25,4 +25,3 @@ payload:
     # home monitor
   - DOMAIN-SUFFIX,lorexservices.com
   - DOMAIN,p2p.lorexservices.com
-  - DOMAIN-SUFFIX,hostloc.com
