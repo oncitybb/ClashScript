@@ -16,4 +16,5 @@ payload:
   #github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,rarbg.to
-
+#hostloc
+  - DOMAIN-SUFFIX,hostloc.com
