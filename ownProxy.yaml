@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamstat.us
-  - DOMAIN-SUFFIX,steamstatic.com
   # PS5
   - DOMAIN,np.playstation.com
   - DOMAIN,np.playstation.net
