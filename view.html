@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OnlyOffice Viewer</title>
+</head>
+ 
+<body>
+    <div id="placeholder"></div>
+    <script type="text/javascript" src="https://192.168.3.229:8081/web-apps/apps/api/documents/api.js"></script>
+    <script>
+        function getQueryParamValue(name) {
+            const searchParams = new URLSearchParams(window.location.search);
+            return searchParams.get(name);
+        }
+        
+        const url = decodeURIComponent(getQueryParamValue("src"));
+        const fileName = url.substring(url.lastIndexOf('/') + 1, url.lastIndexOf('?') != -1 ? url.lastIndexOf('?') : url.length);
+        const fileExtension = fileName.split('.').pop();
+        const docEditor = new DocsAPI.DocEditor("placeholder", {
+            "document": {
+                "fileType": fileExtension,
+                "permissions": {
+                    "edit": false,
+                    "comment": true,
+                    "download": true,
+                    "print": true,
+                    "fillForms": true,
+                },
+                "title": fileName,
+                "url": url,
+            },
+            "editorConfig": {
+                "lang": "zh-CN",
+                "mode": "view",
+            },
+            "height": "1080px",
+            "type": "desktop",
+        });
+    </script>
+</body>
+</html>
