@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   #iptv
   - DOMAIN-SUFFIX,jdshipin.com
+  - IP-CIDR,198.16.100.0/22
