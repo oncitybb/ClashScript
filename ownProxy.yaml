@@ -23,4 +23,5 @@ payload:
 
   #iptv
   - DOMAIN-SUFFIX,jdshipin.com
+  - DOMAIN,edgeware-live.edgeware.tvb.com
   - IP-CIDR,198.16.100.0/22
