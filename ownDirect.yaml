@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,vincew.eu.org
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN,tvb.vwsp.eu.org
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
 
