@@ -21,4 +21,8 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN,buyvm.vincew.eu.org
 
+
+  - DOMAIN-KEYWORD,stream-link
+  - DOMAIN-SUFFIX,tvb.com
+
   - IP-CIDR,198.16.100.0/22
