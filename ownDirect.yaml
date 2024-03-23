@@ -9,7 +9,7 @@ payload:
   - DOMAIN,tvb.vwsp.eu.org
 
   #tvb
-
+  - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
 
