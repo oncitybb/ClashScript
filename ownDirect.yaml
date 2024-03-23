@@ -7,9 +7,6 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,tvb.vwsp.eu.org
-
-  #tvb
-  - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
 
