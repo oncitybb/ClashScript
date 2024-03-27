@@ -2,8 +2,6 @@ payload:
   # own domain
   - DOMAIN-SUFFIX,vincew.top
   - DOMAIN-SUFFIX,hd.ai
-  - DOMAIN-SUFFIX,vwsp.eu.org
-  - DOMAIN-SUFFIX,vincew.eu.org
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,tvb.vwsp.eu.org
