@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,tvb.vwsp.eu.org
   - DOMAIN,hhanclub.top
- # - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
+  - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
 
