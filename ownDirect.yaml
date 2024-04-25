@@ -11,6 +11,9 @@ payload:
   - SRC-IP-CIDR,13.107.136.10/32
  #TVBOX
   - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-SUFFIX,gsuus.com
+  - DOMAIN-SUFFIX,guangsuimage.com
+  
   - DOMAIN-SUFFIX,xhdwc.tk
   - DOMAIN-KEYWORD,cdnlz
 #iptv
