@@ -10,7 +10,7 @@ payload:
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
  #TVBOX
-  - DOMAIN-KEYWORD,ffzyread
+  - DOMAIN-KEYWORD,ffzy
   - DOMAIN-SUFFIX,xhdwc.tk
   - DOMAIN-KEYWORD,cdnlz
 #iptv
