@@ -9,7 +9,10 @@ payload:
  # - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
-
+ #TVBOX
+  - DOMAIN-SUFFIX,ffzyread2.com
+  - DOMAIN-SUFFIX,ffzyread1.com
+  - DOMAIN-SUFFIX,xhdwc.tk
 #iptv
   # 局域网
   - SRC-IP-CIDR,192.168.3.8/32
