@@ -10,10 +10,9 @@ payload:
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
  #TVBOX
-  - DOMAIN-SUFFIX,ffzyread2.com
-  - DOMAIN-SUFFIX,ffzyread1.com
+  - DOMAIN-KEYWORD,ffzyread
   - DOMAIN-SUFFIX,xhdwc.tk
-  - DOMAIN-SUFFIX,cdnlz2.com
+  - DOMAIN-KEYWORD,cdnlz
 #iptv
   # 局域网
   - SRC-IP-CIDR,192.168.3.8/32
