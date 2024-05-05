@@ -11,6 +11,8 @@ payload:
   - SRC-IP-CIDR,13.107.136.10/32
  #TVBOX
   - DOMAIN-KEYWORD,ffzy
+  - DOMAIN-KEYWORD,bfengfy
+  - DOMAIN-KEYWORD,kuaikan
   - DOMAIN-SUFFIX,gsuus.com
   - DOMAIN-SUFFIX,guangsuimage.com
   
