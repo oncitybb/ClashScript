@@ -25,5 +25,6 @@ payload:
   - DOMAIN-SUFFIX,vincew.eu.org
   - DOMAIN-KEYWORD,stream-link
   - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN,tvb.vincew.top
 
   - IP-CIDR,198.16.100.0/22
