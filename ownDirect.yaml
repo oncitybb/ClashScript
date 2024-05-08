@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,hd.ai
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
-  - DOMAIN,tvb.vwsp.eu.org
   - DOMAIN,hhanclub.top
  # - DOMAIN,prd-vcache.edge-global.akamai.tvb.com
 #sharepoint
