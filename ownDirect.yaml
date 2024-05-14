@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,hhanclub.top
+  - DOMAIN,tracker.hhan.club
   
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
@@ -14,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,kuaikan
   - DOMAIN-SUFFIX,gsuus.com
   - DOMAIN-SUFFIX,guangsuimage.com
+  
   
   - DOMAIN-SUFFIX,xhdwc.tk
   - DOMAIN-KEYWORD,cdnlz
