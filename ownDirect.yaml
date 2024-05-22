@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN,hhanclub.top
   - DOMAIN,tracker.hhan.club
-  - DOMAIN-SUFFIX,pttime.org
   
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
