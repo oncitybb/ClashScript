@@ -15,6 +15,10 @@ payload:
   - DOMAIN-KEYWORD,kuaikan
   - DOMAIN-SUFFIX,gsuus.com
   - DOMAIN-SUFFIX,guangsuimage.com
+  - IP-CIDR,183.206.0.0/15
+  - DOMAIN-SUFFIX,gitv.tv
+  - DOMAIN-SUFFIX,cctv.cn
+  - DOMAIN-SUFFIX,yangshipin.cn
   
   
   - DOMAIN-SUFFIX,xhdwc.tk
