@@ -1,4 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,livednow.com
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
+  
   # Steam
   - DOMAIN,store.steampowered.com
   - DOMAIN-SUFFIX,steam-chat.com
