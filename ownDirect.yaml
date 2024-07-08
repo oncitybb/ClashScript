@@ -7,7 +7,7 @@ payload:
   - DOMAIN,hhanclub.top
   - DOMAIN,tracker.hhan.club
   - DOMAIN,testtvb.vwsp.eu.org
-  - DOMAIN,fongo.com
+  - DOMAIN-SUFFIX,fongo.com
 
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
