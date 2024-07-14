@@ -48,8 +48,6 @@ payload:
   # Nexon
   - DOMAIN,kartdrift.arenadownload.nexon.com
     # home monitor
-  - DOMAIN-SUFFIX,lorexservices.com
-  - DOMAIN,p2p.lorexservices.com
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,cloud.oracle.com
 
