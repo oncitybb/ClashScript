@@ -1,4 +1,8 @@
 #EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="翡翠台" group-title="IPTV-翡翠台",翡翠台
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-name="翡翠台" group-title="IPTV-翡翠台",翡翠台
+https://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 4K
 http://192.168.3.254:8899/rtp/239.77.0.65:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视 25p 4K
@@ -57,7 +61,6 @@ http://192.168.3.254:8899/rtp/239.77.0.61:5146
 http://192.168.3.254:8899/rtp/239.77.0.60:5146
 #EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视 4K (AVS2)
 http://192.168.3.254:8899/rtp/239.77.1.38:5146
-#EXTM3U name="广东电信IPTV"
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
 http://192.168.3.254:8899/rtp/239.77.0.4:5146
 #EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
