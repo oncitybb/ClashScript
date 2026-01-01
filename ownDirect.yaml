@@ -8,6 +8,11 @@ payload:
   - DOMAIN,tracker.hhan.club
   - DOMAIN,testtvb.vwsp.eu.org
   - DOMAIN-SUFFIX,fongo.com
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,springsunday.net
+
 
 #sharepoint
   - SRC-IP-CIDR,13.107.136.10/32
